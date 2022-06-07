@@ -31,7 +31,7 @@ class ManhwaFragment : Fragment() {
                 .navigate(R.id.action_manhwaFragment_to_manhwaDetailsFragment)
         })
 
-        (activity as AppCompatActivity).supportActionBar?.title = "MovieKu"
+        (activity as AppCompatActivity).supportActionBar?.title = "ManhwaKu"
 
         return binding.root
     }
