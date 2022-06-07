@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mangaFragment"
+        android:icon="@drawable/ic_tv"
+        android:title="Manga" />
+    <item
+        android:id="@+id/manhuaFragment"
+        android:icon="@drawable/ic_movie"
+        android:title="Manhua" />
+    <item
+        android:id="@+id/manhwaFragment"
+        android:icon="@drawable/ic_tv"
+        android:title="Manhwa" />
+</menu>

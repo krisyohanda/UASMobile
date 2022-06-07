@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/build/classes" />
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuliah/UASMobile/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Kuliah/UASMobile/app/src/main/res/layout/fragment_manga.xml" value="0.12107396149949341" />
+        <entry key="..\:/Kuliah/UASMobile/app/src/main/res/layout/manga_fragment_details.xml" value="0.12107396149949341" />
+        <entry key="..\:/Kuliah/UASMobile/app/src/main/res/layout/manga_row.xml" value="0.1" />
+        <entry key="..\:/Kuliah/UASMobile/app/src/main/res/layout/manhua_row.xml" value="0.176" />
+        <entry key="..\:/Kuliah/UASMobile/app/src/main/res/layout/manhwa_fragment_details.xml" value="0.1" />
+        <entry key="..\:/Kuliah/UASMobile/app/src/main/res/layout/manhwa_row.xml" value="0.12107396149949341" />
+        <entry key="..\:/Kuliah/UASMobile/app/src/main/res/menu/nav_menu.xml" value="0.17777777777777778" />
+      </map>
+    </option>
   </component>
-  <component name="ProjectType">
-    <option name="id" value="Android" />
-  </component>
-=======
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
->>>>>>> origin/master
 </project>
