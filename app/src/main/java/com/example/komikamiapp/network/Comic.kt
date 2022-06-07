@@ -5,6 +5,7 @@ import java.io.Serializable
 data class Manga(val title: String,
                   val thumb: String,
                   val type: String,
+
                   val chapter: String
 ) : Serializable {}
 data class MangaResponse(val status: Boolean,
