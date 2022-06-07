@@ -1,0 +1,42 @@
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/manhuaFragment">
+
+    <fragment
+        android:id="@+id/manhuaFragment"
+        android:name="com.example.komikamiapp.ui.manhua.ManhuaFragment"
+        android:label="fragment_manhua"
+        tools:layout="@layout/fragment_manhua" >
+        <action
+            android:id="@+id/action_manhuaFragment_to_manhuaDetailsFragment"
+            app:destination="@id/manhuaDetailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/manhuaDetailsFragment"
+        android:name="com.example.komikamiapp.ui.manhua_details.ManhuaDetailsFragment"
+        android:label="ManhuaDetailsFragment" >
+        <action
+            android:id="@+id/action_manhuaDetailFragment_to_manhuasFragment"
+            app:destination="@id/manhuaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/manhwaFragment"
+        android:name="com.example.komikamiapp.ui.manhwa.ManhwaFragment"
+        android:label="fragment_manhwa"
+        tools:layout="@layout/fragment_manhwa" >
+        <action
+            android:id="@+id/action_manhwaFragment_to_manhwaDetailsFragment"
+            app:destination="@id/manhwaDetailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/manhwaDetailsFragment"
+        android:name="com.example.komikamiapp.ui.manhwa_details.ManhwaDetailsFragment"
+        android:label="ManhwaDetailsFragment" >
+        <action
+            android:id="@+id/action_manhwaDetailFragment_to_manhwaFragment"
+            app:destination="@id/manhwaFragment" />
+    </fragment>
+
+</navigation>

@@ -1,4 +1,4 @@
-package com.example.komikami.network
+package com.example.komikamiapp.network
 
 import java.io.Serializable
 
