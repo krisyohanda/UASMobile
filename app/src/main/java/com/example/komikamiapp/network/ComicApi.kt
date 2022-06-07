@@ -23,7 +23,7 @@ private val retrofit = Retrofit.Builder()
     .build()
 
 interface MangaApiService {
-    @GET("page/1")
+    @GET("page/2")
     fun getManga(): Deferred<MangaResponse>
 }
 
