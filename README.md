@@ -6,10 +6,10 @@
 Aplikasi yang menampilkan komik (manga, manhwa, dan manhua)
 
 ### API
-- ** API PATH ** = https://manganim.herokuapp.com/manga
-- ** Manga ** =  https://manganim.herokuapp.com/manga/[pageNumber]
-- ** Manhwa ** = https://manganim.herokuapp.com/manga/manhwa/[pageNumber]
-- ** Manhua ** = https://manganim.herokuapp.com/manga/manhua/[pageNumber]
+- **API PATH** = https://manganim.herokuapp.com/manga
+- **Manga** =  https://manganim.herokuapp.com/manga/[pageNumber]
+- **Manhwa** = https://manganim.herokuapp.com/manga/manhwa/[pageNumber]
+- **Manhua** = https://manganim.herokuapp.com/manga/manhua/[pageNumber]
 
 #### Data Model
 Manga, Manhwa, dan Manhua
