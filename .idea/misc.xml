@@ -5,12 +5,17 @@
       <map>
         <entry key="..\:/Kuliah/UASMobile/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Kuliah/UASMobile/app/src/main/res/layout/fragment_manga.xml" value="0.12107396149949341" />
+        <entry key="..\:/Kuliah/UASMobile/app/src/main/res/layout/fragment_manhua.xml" value="0.25" />
+        <entry key="..\:/Kuliah/UASMobile/app/src/main/res/layout/fragment_manhwa.xml" value="0.25" />
         <entry key="..\:/Kuliah/UASMobile/app/src/main/res/layout/manga_fragment_details.xml" value="0.12107396149949341" />
         <entry key="..\:/Kuliah/UASMobile/app/src/main/res/layout/manga_row.xml" value="0.1" />
+        <entry key="..\:/Kuliah/UASMobile/app/src/main/res/layout/manhua_fragment_details.xml" value="0.20606884057971014" />
         <entry key="..\:/Kuliah/UASMobile/app/src/main/res/layout/manhua_row.xml" value="0.176" />
         <entry key="..\:/Kuliah/UASMobile/app/src/main/res/layout/manhwa_fragment_details.xml" value="0.1" />
         <entry key="..\:/Kuliah/UASMobile/app/src/main/res/layout/manhwa_row.xml" value="0.12107396149949341" />
         <entry key="..\:/Kuliah/UASMobile/app/src/main/res/menu/nav_menu.xml" value="0.17777777777777778" />
+        <entry key="..\:/Kuliah/UASMobile/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1105" />
+        <entry key="..\:/Kuliah/UASMobile/app/src/main/res/mipmap-anydpi-v26/ic_manga.xml" value="0.1105" />
         <entry key="..\:/ProjectAndroidStudio/KomikamiApp/app/src/main/res/layout/manga_fragment_details.xml" value="0.1" />
         <entry key="..\:/ProjectAndroidStudio/KomikamiApp/app/src/main/res/layout/manhua_fragment_details.xml" value="0.18819655521783182" />
       </map>

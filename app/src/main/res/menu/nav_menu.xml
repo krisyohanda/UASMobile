@@ -2,14 +2,14 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/mangaFragment"
-        android:icon="@drawable/ic_tv"
+        android:icon="@drawable/ic_manga"
         android:title="Manga" />
     <item
         android:id="@+id/manhuaFragment"
-        android:icon="@drawable/ic_movie"
+        android:icon="@drawable/ic_manhua"
         android:title="Manhua" />
     <item
         android:id="@+id/manhwaFragment"
-        android:icon="@drawable/ic_tv"
+        android:icon="@drawable/ic_manhwa"
         android:title="Manhwa" />
 </menu>

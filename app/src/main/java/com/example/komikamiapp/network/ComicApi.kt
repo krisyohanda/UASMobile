@@ -8,6 +8,7 @@ import retrofit2.Retrofit
 import retrofit2.converter.moshi.MoshiConverterFactory
 import retrofit2.converter.scalars.ScalarsConverterFactory
 import retrofit2.http.GET
+import retrofit2.http.Path
 
 private const val BASE_URL = "https://manganim.herokuapp.com/manga/"
 
@@ -35,6 +36,11 @@ interface ManhuaApiService {
 interface ManhwaApiService {
     @GET("manhwa/1")
     fun getManhwa(): Deferred<ManhwaResponse>
+}
+
+interface MangaDetailApiService {
+    @GET("detail/{endpoint}")
+    fun getMangaDetail(@Path("endpoint") endpoint: String): MangaDetail
 }
 
 object MangaApi {

@@ -7,9 +7,12 @@ import android.view.ViewGroup
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
+import androidx.lifecycle.viewModelScope
 import androidx.navigation.fragment.findNavController
 import com.example.komikamiapp.R
 import com.example.komikamiapp.databinding.FragmentMangaBinding
+import com.example.komikamiapp.network.MangaDetail
+import kotlinx.coroutines.launch
 
 class MangaFragment : Fragment() {
 
